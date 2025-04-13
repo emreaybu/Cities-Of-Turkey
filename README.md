@@ -2,22 +2,22 @@ This project is an informative website that aims to promote various cities of T�
 
 Features:
 
-Visuals and detailed descriptions for four cities in Türkiye: Ankara, Muğla, Istanbul, and Nevşehir
+-Visuals and detailed descriptions for four cities in Türkiye: Ankara, Muğla, Istanbul, and Nevşehir
 
-Responsive (mobile-friendly) design
+-Responsive (mobile-friendly) design
 
-Clean and simple user interface
+-Clean and simple user interface
 
-Personal contact section with social media icons
+-Personal contact section with social media icons
 
-User-friendly navigation
+-User-friendly navigation
 
 Technologies Used:
 
-HTML5
+-HTML5
 
-CSS3 (Flexbox and media queries)
+-CSS3 (Flexbox and media queries)
 
-Google Fonts & Font Awesome
+-Google Fonts & Font Awesome
 
-Basic design principles for organizing images and text
+-Basic design principles for organizing images and text
